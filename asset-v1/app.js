@@ -110,6 +110,10 @@ var app = new function () {
 			name: "grecou",
 			color: "ffd12b",
 			uniqsnd: !1
+		}, {
+			name: "sticlafluier",
+			color: "ffd12b",
+			uniqsnd: !0
 		}
 	],
 	this.bonusarray = [],
