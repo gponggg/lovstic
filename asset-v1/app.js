@@ -113,7 +113,7 @@ var app = new function () {
 		}, {
 			name: "sticlafluier",
 			color: "ffd12b",
-			uniqsnd: !0
+			uniqsnd: !1
 		}
 	],
 	this.bonusarray = [],
